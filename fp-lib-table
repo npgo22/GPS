@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "APRLPrints")(type "KiCad")(uri "${KIPRJMOD}/external/APRLPrints/APRLPrints.pretty")(options "")(descr ""))
+  (lib (name "libgps")(type "KiCad")(uri "${KIPRJMOD}/libgps.pretty")(options "")(descr ""))
+)
